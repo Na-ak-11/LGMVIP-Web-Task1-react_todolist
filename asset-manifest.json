@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LGMVIP-Web-Task1-react_todolist/static/css/main.7b426170.css",
+    "main.js": "/LGMVIP-Web-Task1-react_todolist/static/js/main.15fca1b8.js",
+    "index.html": "/LGMVIP-Web-Task1-react_todolist/index.html",
+    "main.7b426170.css.map": "/LGMVIP-Web-Task1-react_todolist/static/css/main.7b426170.css.map",
+    "main.15fca1b8.js.map": "/LGMVIP-Web-Task1-react_todolist/static/js/main.15fca1b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b426170.css",
+    "static/js/main.15fca1b8.js"
+  ]
+}
